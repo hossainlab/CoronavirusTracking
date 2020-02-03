@@ -1,4 +1,4 @@
-# Tracking the Spread of Coronavirus?
+# Tracking the Spread of Coronavirus
 **Coronaviruses** are a family of viruses known for containing strains that cause potentially deadly diseases in mammals and birds. In humans they're typically spread via airborne droplets of fluid produced by infected individuals.Some rare but notable strains, including Wuhan coronavirus (2019-nCoV), and those responsible for severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), can cause death in humans.[See More](https://www.sciencealert.com/coronavirus)
 
 ![Corona](./figs/corona.png)
