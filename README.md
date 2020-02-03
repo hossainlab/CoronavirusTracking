@@ -40,3 +40,9 @@ This file is an aggregated version of the 2019-nCoV dataset collected by Johns H
 - Matplotlib
 - Seaborn 
 - Pandas
+
+## Important Links 
+1.https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+2.https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public <br>
+3.https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public <br>
+4.https://www.kaggle.com/gpreda/tracking-the-spread-of-2019-coronavirus
