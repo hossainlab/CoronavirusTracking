@@ -40,6 +40,9 @@ This file is an aggregated version of the 2019-nCoV dataset collected by Johns H
 - Matplotlib
 - Seaborn 
 - Pandas
+- **Juypter Notebook(nbviewer)
+- [Visualization with Plotly](https://nbviewer.jupyter.org/github/jubayer-hossain/CoronavirusTracking/blob/master/nCoV%20Tracking.ipynb)
+- [Visualization with Seaborn & Matplotlib](https://nbviewer.jupyter.org/github/jubayer-hossain/CoronavirusTracking/blob/master/Corona%20Data%20Analysis%20.ipynb)
 
 ## Important Links 
 1.https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
